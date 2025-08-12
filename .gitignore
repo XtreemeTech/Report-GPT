@@ -139,4 +139,6 @@ dmypy.json
 Thumbs.db 
 
 
-# md 
+# 
+
+data/
