@@ -1,0 +1,48 @@
+{
+  "conversation": [
+    {
+      "question": "What is the main topic of the ANGOSTURA report?",
+      "answer": "The main topic of the ANGOSTURA report is the field development in Trinidad and Tobago, specifically focusing on the Seamless Line Pipe specification.",
+      "model": "gpt-4",
+      "tokens_used": 422,
+      "timestamp": "2025-08-12T10:29:17.193145",
+      "context_included": true
+    },
+    {
+      "question": "What are the key findings in the documents?",
+      "answer": "The information provided does not include the key findings of the documents mentioned. The details given are related to document identification such as document numbers, project names, and company names, but they do not provide any context or summary of the content or findings within these documents. For me to provide the key findings, I would need a summary or detailed content of these documents.",
+      "model": "gpt-4",
+      "tokens_used": 446,
+      "timestamp": "2025-08-12T10:29:20.727107",
+      "context_included": true
+    },
+    {
+      "question": "What methodology was used in the study?",
+      "answer": "Based on the information provided, there is no specific methodology outlined in the documents. The documents seem to be related to various projects and specifications, but without further details, it's impossible to identify a specific methodology that was used in a study.",
+      "model": "gpt-4",
+      "tokens_used": 416,
+      "timestamp": "2025-08-12T10:29:24.773776",
+      "context_included": true
+    },
+    {
+      "question": "What are the main recommendations?",
+      "answer": "Based on the information provided, no specific recommendations are mentioned in the documents. The documents appear to mainly contain specifications and project details. Recommendations would generally be suggestions or advice on what action to take, but from the given context, there's no mention of such advice.",
+      "model": "gpt-4",
+      "tokens_used": 424,
+      "timestamp": "2025-08-12T10:29:28.857413",
+      "context_included": true
+    },
+    {
+      "question": "How many pages are in the documents?",
+      "answer": "The information provided does not include the total number of pages in the documents.",
+      "model": "gpt-4",
+      "tokens_used": 211,
+      "timestamp": "2025-08-12T10:29:31.036157",
+      "context_included": true
+    }
+  ],
+  "model": "gpt-4",
+  "total_questions": 5,
+  "total_tokens": 1919,
+  "created_at": "2025-08-12T10:29:31.038157"
+}

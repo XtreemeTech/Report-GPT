@@ -1,0 +1,48 @@
+{
+  "conversation": [
+    {
+      "question": "What is the main topic of the ANGOSTURA report?",
+      "answer": "The main topic of the ANGOSTURA report is the field development in Trinidad and Tobago, with a specific focus on the specifications of the Seamless Line Pipe.",
+      "model": "gpt-4",
+      "tokens_used": 426,
+      "timestamp": "2025-08-12T10:23:27.246138",
+      "context_included": true
+    },
+    {
+      "question": "What are the key findings in the documents?",
+      "answer": "Based on the information you provided, it seems that no specific key findings are detailed in the documents. The information only shares document titles, codes, and project names, such as the \"Angostura Field Development\" in Trinidad and Tobago, the Angostura Gas Project by BHP Billiton Petroleum, and the TotalFinaElf E&P Angola Dalia Project. It seems the documents are related to equipment specifications and project details in the oil and gas sector. However, without more specific content from the documents, it's impossible to determine any key findings.",
+      "model": "gpt-4",
+      "tokens_used": 487,
+      "timestamp": "2025-08-12T10:23:33.434569",
+      "context_included": true
+    },
+    {
+      "question": "What methodology was used in the study?",
+      "answer": "Based on the information provided, the methodology for the study is not specified in the documents. The documents mention various project details, specifications, and designations, but they do not explicitly state the methodology used.",
+      "model": "gpt-4",
+      "tokens_used": 409,
+      "timestamp": "2025-08-12T10:23:37.586169",
+      "context_included": true
+    },
+    {
+      "question": "What are the main recommendations?",
+      "answer": "Based on the information provided above, it's not possible to determine the main recommendations. The excerpts from the documents are about their specifications, project numbers, and copyrights but don't provide any conclusions or recommendations. For a comprehensive answer, you would need to refer to the complete documents or provide more detailed excerpts.",
+      "model": "gpt-4",
+      "tokens_used": 432,
+      "timestamp": "2025-08-12T10:23:41.503909",
+      "context_included": true
+    },
+    {
+      "question": "How many pages are in the documents?",
+      "answer": "The information provided does not specify the total number of pages in the documents.",
+      "model": "gpt-4",
+      "tokens_used": 211,
+      "timestamp": "2025-08-12T10:23:44.184362",
+      "context_included": true
+    }
+  ],
+  "model": "gpt-4",
+  "total_questions": 5,
+  "total_tokens": 1965,
+  "created_at": "2025-08-12T10:23:44.185360"
+}
