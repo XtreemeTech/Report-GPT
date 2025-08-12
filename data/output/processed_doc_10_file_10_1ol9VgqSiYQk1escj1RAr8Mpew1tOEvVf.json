@@ -1,0 +1,44 @@
+{
+  "file_path": "data\\input\\folder_1Aj-clvMvtDwal-dF5PDDFl6WZXFMcBXv\\file_10_1ol9VgqSiYQk1escj1RAr8Mpew1tOEvVf.DOC",
+  "processing_timestamp": "2025-08-12T08:34:21.726900",
+  "sections": {},
+  "metrics": {},
+  "qa_pairs": [
+    {
+      "question": "What is the main topic of this document?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the key findings?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the main conclusions?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What recommendations are provided?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What methodology was used?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    }
+  ],
+  "tables": [],
+  "text_summary": {
+    "total_pages": 0,
+    "total_tables": 0,
+    "total_qa_pairs": 5
+  }
+}

@@ -1,0 +1,489 @@
+{
+  "file_path": "data\\input\\folder_1Aj-clvMvtDwal-dF5PDDFl6WZXFMcBXv\\file_01_14GRtoMX8CWyBpv8V3tzX_W4hCL1LnIKZ.pdf",
+  "processing_timestamp": "2025-08-12T08:34:20.636531",
+  "sections": {
+    "introduction": [
+      {
+        "text": "Pipe\nDocument No.: GG-ANG-QS-00-8031\nRevision No.: 2\nIssue Date: 23 August 03\nTABLE OF CONTENTS\n1.0 INTRODUCTION.............................................................................................................5\n1.1 Scope...............................................................................................................................................5\n1.2 Definitions.........................................................................................................................................5\n1.3 Abbreviations....................................................................................................................................6\n1.4 Reference Documents.....................................................................................................................6\n2.0 HEALTH, SAFETY, AND ENVIRONMENTAL REQUIREMENTS....................................8\n3.0 PROCESS OF MANUFACTURING.................................................................................8\n3.1 Manufacturing Procedure Specification (MPS)..............................",
+        "position": 1379
+      },
+      {
+        "text": "for Seamless Line Pipe\nDocument No.: GG-ANG-QS-00-8031\nRevision No.: 2\nIssue Date: 23 August 03\n1.0 INTRODUCTION\n1.1 Scope\nThis Specification defines the performance and technical requirements for the\nmanufacture and inspection of seamless carbon steel line pipe for subsea non-sour\nservice in the Angostura Field, offshore Trinidad.\nLine pipe purchased to this Specification will be used for hydrocarbon transportation and\nshall comply with the requirements of the current edition of API Specification 5L except\nas modified by the requirements set forth herein. Product Specification Level 2 shall be\napplied, and as further amended by this Specification.\nThe line pipe surface shall be free from slivers, oil, grease and other contaminants that\nmay interfere with the application and integrity of external corrosion protection coating.\nThe line pipe shall be readily weldable using automatic welding, submerged arc welding\nand manual welding processes in common usage offshore to achieve maximum weld\narea hardness no greater than 270 Hvl0 without the need for pre-heating or post weld\nheat treatme",
+        "position": 10352
+      }
+    ],
+    "methodology": [
+      {
+        "text": "SME Sec V Boiler and Pressure Vessel Code Non-Destructive Examination,\nSubsection A: Nondestructive Methods of Examination\nASME Sec IX Welding and Brazing Qualifications\nASTM – American Society for Testing and Materials\nASTM A370 Standard Test Methods and Definitions for Mechanical Testing of\nSteel Products, Annex A2 - Steel Tubular Products\nASTM E112 Standard Test Methods for Determining Average Grain Size\nASNT – American Society for Nondestructive Testing\nASNT-TC-1A Personnel Qualification and Certification in Non-Destructive\nTesting\nISO – International Organization for Standardization\nISO R148 Steel - Charpy Impact Test (V-notch)\nISO 8501-1 Preparation of Steel Substrates Before Application of Paints and\nRelated Products - Visual Assessment of Surface Cleanliness\nISO 9001 Quality Management Systems\nISO 10474 Steel and Steel Products - Inspection Documents\nLatest editions shall be used including amendments, addenda, supplements, or revisions\nthereto.\nPage 7 of 27 Angostura Field Development\nSpecification for Seamless Line Pipe\nDocument No.: GG-ANG-QS-00-8031\nRevision No.: 2\nIssue D",
+        "position": 13924
+      },
+      {
+        "text": "nd Brazing Qualifications\nASTM – American Society for Testing and Materials\nASTM A370 Standard Test Methods and Definitions for Mechanical Testing of\nSteel Products, Annex A2 - Steel Tubular Products\nASTM E112 Standard Test Methods for Determining Average Grain Size\nASNT – American Society for Nondestructive Testing\nASNT-TC-1A Personnel Qualification and Certification in Non-Destructive\nTesting\nISO – International Organization for Standardization\nISO R148 Steel - Charpy Impact Test (V-notch)\nISO 8501-1 Preparation of Steel Substrates Before Application of Paints and\nRelated Products - Visual Assessment of Surface Cleanliness\nISO 9001 Quality Management Systems\nISO 10474 Steel and Steel Products - Inspection Documents\nLatest editions shall be used including amendments, addenda, supplements, or revisions\nthereto.\nPage 7 of 27 Angostura Field Development\nSpecification for Seamless Line Pipe\nDocument No.: GG-ANG-QS-00-8031\nRevision No.: 2\nIssue Date: 23 August 03\nIn the event of any conflict between codes, standards, references, specifications and data\nsheets, the more stringent requirem",
+        "position": 14068
+      },
+      {
+        "text": "for Mechanical Testing of\nSteel Products, Annex A2 - Steel Tubular Products\nASTM E112 Standard Test Methods for Determining Average Grain Size\nASNT – American Society for Nondestructive Testing\nASNT-TC-1A Personnel Qualification and Certification in Non-Destructive\nTesting\nISO – International Organization for Standardization\nISO R148 Steel - Charpy Impact Test (V-notch)\nISO 8501-1 Preparation of Steel Substrates Before Application of Paints and\nRelated Products - Visual Assessment of Surface Cleanliness\nISO 9001 Quality Management Systems\nISO 10474 Steel and Steel Products - Inspection Documents\nLatest editions shall be used including amendments, addenda, supplements, or revisions\nthereto.\nPage 7 of 27 Angostura Field Development\nSpecification for Seamless Line Pipe\nDocument No.: GG-ANG-QS-00-8031\nRevision No.: 2\nIssue Date: 23 August 03\nIn the event of any conflict between codes, standards, references, specifications and data\nsheets, the more stringent requirement shall apply.\n2.0 HEALTH, SAFETY, AND ENVIRONMENTAL REQUIREMENTS\nAll work shall be subject to approval by COMPANY Represe",
+        "position": 14192
+      },
+      {
+        "text": "Quality Plan\n- Non-Destructive Testing Procedures (including visual inspection)\n- Dimensional check methods\n- Handling, Transport and Storage Procedures\nPage 9 of 27 Angostura Field Development\nSpecification for Seamless Line Pipe\nDocument No.: GG-ANG-QS-00-8031\nRevision No.: 2\nIssue Date: 23 August 03\n3.2 Manufacturing Procedure Qualification\nA pipe length will be selected by COMPANY’s Representative from the first pipe lengths\noff the mill. This pipe shall be used for all qualification testing of the manufacturing\nprocedure as detailed below.\nFailure of any of the qualification tests shall be cause for rejection of the MPS and all\npipe lengths produced to it. COMPANY reserves the right to require requalification in the\ncase of any major changes to the approved MPS or interruption in the production of line\npipe.\nAll Mill qualification testing shall be completed within ten working days after\ncommencement of production or subsequent restart of production after an interruption\nof production.\n3.2.1 Scope\nThis section outlines the tests and criteria required for qualifying the Manufactur",
+        "position": 18704
+      },
+      {
+        "text": "ablished in accordance with Section 5 of API 1104, shall be suitable for application by\nestablished methods of welding pipelines.\nPage 10 of 27 Angostura Field Development\nSpecification for Seamless Line Pipe\nDocument No.: GG-ANG-QS-00-8031\nRevision No.: 2\nIssue Date: 23 August 03\nStrain Aging Test\nA line pipe sample shall be strained 2% in the longitudinal direction and then heated for\n1 hour at 150 °C. Three Charpy specimens shall be machined from the sample in the\ndirection transverse to the longitudinal direction and tested at 0°C. Charpy V-notch\nimpact energy values shall meet the requirements given in API 5L Table F-3 of this\nSpecification and all specimens shall display at least 80% shear area.\nCharpy Transition Curves\nSets of three Charpy impact specimens, taken from the locations specified in this\nSpecification, shall be tested at a range of temperatures to establish energy and fracture\nappearance transition curves for each location. The curves shall be supplied to\nCOMPANY for information.\n3.3 Steelmaking Process\nThe steel shall be made by either the basic oxygen or the elec",
+        "position": 20604
+      },
+      {
+        "text": "COMPANY review and/or approval,\nprior to use, the range (maximum and minimum) of elements added and methods for\nverifying proper inclusion morphology control and product uniformity.\n3.4 Chemical Composition\nCONTRACTOR shall include a chemical composition range in the Manufacturing\nProcedure Specification. The range shall comply with the requirements listed in Section\n4.0. The control limits shall be agreed upon and defined in the Manufacturing Procedure\nSpecification prepared by CONTRACTOR and reviewed and/or approved by COMPANY.\n3.5 Field Weldability\nThe pipe shall be suitable for field welding with SMAW, GMAW, SAW, or GTAW\nprocesses without the need for preheating or post welding heat treatment. CONTRACTOR\nshall supply data on the girth weldability of pipe of similar chemical composition, grade,\nthickness and manufacturing techniques as required by this specification. The girth\nwelds produced shall meet the requirements of COMPANY Field Welding Specification\nand shall have a maximum hardness of 270 Hv10. The welding procedures submitted by\nPage 11 of 27 Angostura Field Development",
+        "position": 22049
+      },
+      {
+        "text": "OR to demonstrate the weldability of similar pipe, shall be suitable for\napplication by established methods for welding offshore pipelines.\n3.6 Tracking System\nCONTRACTOR shall operate a computerized line pipe tracking system which ensures full\ntraceability of each individual pipe length to its particular heat number and to records of\nall stages of the manufacturing process. CONTRACTOR shall submit full details of the line\npipe tracking system for COMPANY approval.\nThe line pipe tracking data compiled by CONTRACTOR during manufacture shall be\nprovided in ASCII, Word and/or Excel format on CD. Data shall be compatible with\ndBase IV software.\nThe specific information documented and recorded by the line pipe tracking system shall\ninclude, but not be limited to, the following:\n• Pipe identification number/code\n• Pipe identifier after pipe mill\n• Identifier for this Specification and Purchase Order\n• Date on which ingot was made\n• Date on which pipe was made\n• Production start up pipe\n• Length of pipe\n• Weight of pipe\n• Date and pressure of hydrostatic test\n• Result/ date of final bench t",
+        "position": 23267
+      },
+      {
+        "text": "rejected heat for compliance with this Specification.\nCONTRACTOR shall include the product analysis methods in the Manufacturing Procedure\nSpecification submitted to COMPANY for review and/or approval.\n5.0 MECHANICAL PROPERTIES AND TESTS\n5.1 General\nAll tests shall be performed by CONTRACTOR in accordance with the Quality Plan\nsubmitted by CONTRACTOR for COMPANY approval. The acceptance criteria shall be in\naccordance with API 5L (Specification for Line Pipe) except as modified herein.\nProduction testing of pipe shall be carried out once for each 100 pipes with a minimum\nonce per each heat.\nTest specimens shall be taken by CONTRACTOR from pipe lengths that have been\nsuccessfully heat treated. COMPANY will have the right to select pipe lengths for\nproduction testing.\n5.2 Tensile Properties\nThe yield and tensile strength of the line pipe shall be in accordance with API 5L (PSL-2)\n(Table 3B). Yield strength shall not exceed the minimum specified by more than 18 ksi.\nAdditionally the measured tensile strength of each test pipe shall not exceed the\nminimum, by 18 ksi. One longitudinal and",
+        "position": 26698
+      },
+      {
+        "text": "lengths or a minimum of one per heat is\nrequired from the pipe body. The use of the ring expansion methods for determination of\ntransverse yield strength is not acceptable. Transverse tensile properties shall conform\nto API 5L. The yield/tensile ratio shall not exceed 0.90.\n5.2.2 Longitudinal Tensile Tests\nLongitudinal tensile specimens shall be machined from the pipe body and tested at the\nsame frequency as the transverse tensile specimens. The preparation of the specimens\nand acceptable criteria shall be those stated in API 5L. The yield/tensile ratio shall not\nexceed 0.90.\n5.3 Fracture Resistance Tests\nCharpy impact tests shall be performed on each test ring taken for tensile testing and\ntested in accordance with Appendix F, section SR5B of API 5L. The tests shall be\nconducted at 32(cid:176)F (0 (cid:176)C). The minimum impact energy shall be in accordance with the\nvalues listed in API 5L Table F-3.\nLongitudinal sub-size specimens shall be extracted if transverse specimens cannot be\nobtained. The absorbed energy requirements for subsize specimens shall be pro rata\nthose of full s",
+        "position": 28101
+      },
+      {
+        "text": "e testing procedures by relating indications to the size, location and\nnature of imperfections. The methods of assessing sensitivity shall be at the\nCOMPANY's sole discretion.\n• Reporting\nCONTRACTOR shall include copies of proposed report formats and demonstrate the\nability to allow complete duplication of all examinations to the original parameters at\na later date. Sufficient information shall be included to enable any examination to be\nrepeated and repeatable results obtained.\nPage 19 of 27 Angostura Field Development\nSpecification for Seamless Line Pipe\nDocument No.: GG-ANG-QS-00-8031\nRevision No.: 2\nIssue Date: 23 August 03\n8.3 Calibration\nThe calibration standard shall be located on project pipe of the same diameter,\nthickness and composition as the pipes to be examined.\nCalibration of equipment shall be performed by CONTRACTOR whenever it has been out\nof function for any reason including on/off and whenever there is any doubt concerning\nproper functioning of the equipment.\nFor dynamic equipment, the Manufacturing Procedure Qualification shall include tests\nperformed in both lon",
+        "position": 36068
+      },
+      {
+        "text": "ness and outside diameter\n6. Measured weight and length\nAll such markings shall be carried out by a methods reviewed and/or approved by\nCOMPANY and described in the Marking Procedures. Color coding bands shall be applied\nto the outside surface as specified on the Purchase Order. The pipe length number shall\nbe hard stamped by CONTRACTOR on the bevel face at one end of the pipe.\n10.3 Coating\nThe pipe shall be free from oil, grease and metal turnings and shall be supplied bare\nunless otherwise specified by COMPANY.\n11.0 DOCUMENTATION AND CERTIFICATION\nDocumentation relating to the supply of pipe shall be provided by CONTRACTOR.\nCertificates shall be validated by COMPANY's representative in accordance with EN 10204\n3.1C.\nCertification shall cover all results required by this Specification. All certificates shall be\nmarked with sufficient information to enable full traceability to the items it represents and\nthe relevant specifications and procedures.\nPage 24 of 27 Angostura Field Development\nSpecification for Seamless Line Pipe\nDocument No.: GG-ANG-QS-00-8031\nRevision No.: 2\nIssue Date:",
+        "position": 45785
+      },
+      {
+        "text": "eamless Line Pipe\nDocument No.: GG-ANG-QS-00-8031\nRevision No.: 2\nIssue Date: 23 August 03\nSuitable methods for the protection of internal surfaces from the effects of moisture during\ntransport shall be provided by CONTRACTOR in the Handling Procedures reviewed and/or\napproved by COMPANY.\nMethods utilized to transport line pipe for induction bending purposes shall be contained in\nthe Handling Procedures provided by CONTRACTOR to COMPANY for review and/ or\napproval. The methods shall include a description of the technique proposed to ensure\ncopper and other low melting point contaminants are not deposited on the exterior of the\nline pipe.\nLine pipe shall not rest on projections which could result in point stresses or be allowed to\nrub on an adjacent object. Line pipe loading and unloading shall be performed in\naccordance with API 5L1 or API 5LW, as applicable.\n13.0 QUALITY ASSURANCE\n13.1 General\nThe CONTRACTOR shall establish and maintain a fully documented Quality\nAssurance/Quality Control System in accordance with API Q1 or ISO 9001.\nCOMPANY reserves the right to observe the work in",
+        "position": 48894
+      },
+      {
+        "text": "ort shall be provided by CONTRACTOR in the Handling Procedures reviewed and/or\napproved by COMPANY.\nMethods utilized to transport line pipe for induction bending purposes shall be contained in\nthe Handling Procedures provided by CONTRACTOR to COMPANY for review and/ or\napproval. The methods shall include a description of the technique proposed to ensure\ncopper and other low melting point contaminants are not deposited on the exterior of the\nline pipe.\nLine pipe shall not rest on projections which could result in point stresses or be allowed to\nrub on an adjacent object. Line pipe loading and unloading shall be performed in\naccordance with API 5L1 or API 5LW, as applicable.\n13.0 QUALITY ASSURANCE\n13.1 General\nThe CONTRACTOR shall establish and maintain a fully documented Quality\nAssurance/Quality Control System in accordance with API Q1 or ISO 9001.\nCOMPANY reserves the right to observe the work in progress at any given time and shall\ninclude any subcontractors and all locations.\nCONTRACTOR shall provide access to all work areas where the work is being conducted.\nCONTRACTOR shall subm",
+        "position": 49084
+      },
+      {
+        "text": "ained in\nthe Handling Procedures provided by CONTRACTOR to COMPANY for review and/ or\napproval. The methods shall include a description of the technique proposed to ensure\ncopper and other low melting point contaminants are not deposited on the exterior of the\nline pipe.\nLine pipe shall not rest on projections which could result in point stresses or be allowed to\nrub on an adjacent object. Line pipe loading and unloading shall be performed in\naccordance with API 5L1 or API 5LW, as applicable.\n13.0 QUALITY ASSURANCE\n13.1 General\nThe CONTRACTOR shall establish and maintain a fully documented Quality\nAssurance/Quality Control System in accordance with API Q1 or ISO 9001.\nCOMPANY reserves the right to observe the work in progress at any given time and shall\ninclude any subcontractors and all locations.\nCONTRACTOR shall provide access to all work areas where the work is being conducted.\nCONTRACTOR shall submit for COMPANY review and approval an Inspection and Test\nPlan prior to commencing work.\nCONTRACTOR shall input the required information into a Certification Data Base.\n13.2 Quality Pl",
+        "position": 49268
+      }
+    ],
+    "results": [
+      {
+        "text": "........................................................................................12\n4.2 Heat Analysis.................................................................................................................................14\n5.0 MECHANICAL PROPERTIES AND TESTS..................................................................14\n5.1 General...........................................................................................................................................14\n5.2 Guided Bend Tests..........................................................................Error! Bookmark not defined.\n5.3 Fracture Resistance Tests.............................................................................................................15\n5.4 Hardness Measurements...............................................................................................................15\n6.0 HYDROSTATIC TESTS................................................................................................16\n7.0 DIMENSIONS, WEIGHTS, AND LENGTHS...........................................",
+        "position": 2821
+      },
+      {
+        "text": "eamless Line Pipe\nDocument No.: GG-ANG-QS-00-8031\nRevision No.: 2\nIssue Date: 23 August 03\n4.2 Heat Analysis\nCONTRACTOR shall conduct a product analysis on the first pipe length used from each\nheat or from each batch of 100 pipe lengths, if there are more than 100 pipe lengths\nfrom a heat. The elements and residuals listed in Section 4.1 shall be reported by\nCONTRACTOR, from a cross section rather than from a surface analysis of the line pipe. If\nthe value of any elements falls outside the limits listed, the pipe lengths made from the\nheat shall be rejected. At the discretion of COMPANY, CONTRACTOR may be permitted to\ncheck each pipe length from the rejected heat for compliance with this Specification.\nCONTRACTOR shall include the product analysis methods in the Manufacturing Procedure\nSpecification submitted to COMPANY for review and/or approval.\n5.0 MECHANICAL PROPERTIES AND TESTS\n5.1 General\nAll tests shall be performed by CONTRACTOR in accordance with the Quality Plan\nsubmitted by CONTRACTOR for COMPANY approval. The acceptance criteria shall be in\naccordance with API 5L (Specifi",
+        "position": 26040
+      },
+      {
+        "text": "-8031\nRevision No.: 2\nIssue Date: 23 August 03\n4.2 Heat Analysis\nCONTRACTOR shall conduct a product analysis on the first pipe length used from each\nheat or from each batch of 100 pipe lengths, if there are more than 100 pipe lengths\nfrom a heat. The elements and residuals listed in Section 4.1 shall be reported by\nCONTRACTOR, from a cross section rather than from a surface analysis of the line pipe. If\nthe value of any elements falls outside the limits listed, the pipe lengths made from the\nheat shall be rejected. At the discretion of COMPANY, CONTRACTOR may be permitted to\ncheck each pipe length from the rejected heat for compliance with this Specification.\nCONTRACTOR shall include the product analysis methods in the Manufacturing Procedure\nSpecification submitted to COMPANY for review and/or approval.\n5.0 MECHANICAL PROPERTIES AND TESTS\n5.1 General\nAll tests shall be performed by CONTRACTOR in accordance with the Quality Plan\nsubmitted by CONTRACTOR for COMPANY approval. The acceptance criteria shall be in\naccordance with API 5L (Specification for Line Pipe) except as modified her",
+        "position": 26084
+      },
+      {
+        "text": "ted in Section 4.1 shall be reported by\nCONTRACTOR, from a cross section rather than from a surface analysis of the line pipe. If\nthe value of any elements falls outside the limits listed, the pipe lengths made from the\nheat shall be rejected. At the discretion of COMPANY, CONTRACTOR may be permitted to\ncheck each pipe length from the rejected heat for compliance with this Specification.\nCONTRACTOR shall include the product analysis methods in the Manufacturing Procedure\nSpecification submitted to COMPANY for review and/or approval.\n5.0 MECHANICAL PROPERTIES AND TESTS\n5.1 General\nAll tests shall be performed by CONTRACTOR in accordance with the Quality Plan\nsubmitted by CONTRACTOR for COMPANY approval. The acceptance criteria shall be in\naccordance with API 5L (Specification for Line Pipe) except as modified herein.\nProduction testing of pipe shall be carried out once for each 100 pipes with a minimum\nonce per each heat.\nTest specimens shall be taken by CONTRACTOR from pipe lengths that have been\nsuccessfully heat treated. COMPANY will have the right to select pipe lengths for\nproduc",
+        "position": 26361
+      },
+      {
+        "text": "from the rejected heat for compliance with this Specification.\nCONTRACTOR shall include the product analysis methods in the Manufacturing Procedure\nSpecification submitted to COMPANY for review and/or approval.\n5.0 MECHANICAL PROPERTIES AND TESTS\n5.1 General\nAll tests shall be performed by CONTRACTOR in accordance with the Quality Plan\nsubmitted by CONTRACTOR for COMPANY approval. The acceptance criteria shall be in\naccordance with API 5L (Specification for Line Pipe) except as modified herein.\nProduction testing of pipe shall be carried out once for each 100 pipes with a minimum\nonce per each heat.\nTest specimens shall be taken by CONTRACTOR from pipe lengths that have been\nsuccessfully heat treated. COMPANY will have the right to select pipe lengths for\nproduction testing.\n5.2 Tensile Properties\nThe yield and tensile strength of the line pipe shall be in accordance with API 5L (PSL-2)\n(Table 3B). Yield strength shall not exceed the minimum specified by more than 18 ksi.\nAdditionally the measured tensile strength of each test pipe shall not exceed the\nminimum, by 18 ksi. One longitu",
+        "position": 26689
+      },
+      {
+        "text": "pecified value by more than +12% or -8%.\n7.4 Weight\nCONTRACTOR shall weigh each pipe length and the results shall be included as part of\nthe line pipe tracking record. The weight per unit length shall not vary more than +6.5%\nor -3.5% from the nominal weight.\n7.5 Length\nCONTRACTOR shall provide the pipe lengths in accordance with the following:\nMinimum Maximum Minimum Avg.\n39.4 ft (12.0 m) 41.3 ft. (12.6 m) 40 ft. (12.2 m)\nCONTRACTOR shall measure the length of all line pipe and the results shall be included\nas part of the line pipe tracking record.\n7.6 Straightness\nThe maximum deviation from a straight line shall not exceed 0.15%over 40 ft and\n3.2mm over the last 1m from each end as defined in API-5CT All completed pipe\nlengths shall be rolled over a proven flat bed, or measured against a taught wire, to\nPage 17 of 27 Angostura Field Development\nSpecification for Seamless Line Pipe\nDocument No.: GG-ANG-QS-00-8031\nRevision No.: 2\nIssue Date: 23 August 03\ndemonstrate straightness. Any straightening shall be undertaken using procedures fully\nreviewed and/or approved by COMPANY.\n7.7 Joi",
+        "position": 32236
+      },
+      {
+        "text": "0 m) 41.3 ft. (12.6 m) 40 ft. (12.2 m)\nCONTRACTOR shall measure the length of all line pipe and the results shall be included\nas part of the line pipe tracking record.\n7.6 Straightness\nThe maximum deviation from a straight line shall not exceed 0.15%over 40 ft and\n3.2mm over the last 1m from each end as defined in API-5CT All completed pipe\nlengths shall be rolled over a proven flat bed, or measured against a taught wire, to\nPage 17 of 27 Angostura Field Development\nSpecification for Seamless Line Pipe\nDocument No.: GG-ANG-QS-00-8031\nRevision No.: 2\nIssue Date: 23 August 03\ndemonstrate straightness. Any straightening shall be undertaken using procedures fully\nreviewed and/or approved by COMPANY.\n7.7 Jointers\nJointers shall not be permitted.\n7.8 Squareness\nCONTRACTOR, at least once during each working shift shall perform squareness\nverification on two finished pipes lengths, selected by COMPANY. The pipe lengths shall\nbe laid on horizontally aligned \"V\" blocks or roller and their ends butted together. The\ngap at the joint shall be measured by means of a tape gauge and shall not exceed",
+        "position": 32624
+      },
+      {
+        "text": "e. Sufficient information shall be included to enable any examination to be\nrepeated and repeatable results obtained.\nPage 19 of 27 Angostura Field Development\nSpecification for Seamless Line Pipe\nDocument No.: GG-ANG-QS-00-8031\nRevision No.: 2\nIssue Date: 23 August 03\n8.3 Calibration\nThe calibration standard shall be located on project pipe of the same diameter,\nthickness and composition as the pipes to be examined.\nCalibration of equipment shall be performed by CONTRACTOR whenever it has been out\nof function for any reason including on/off and whenever there is any doubt concerning\nproper functioning of the equipment.\nFor dynamic equipment, the Manufacturing Procedure Qualification shall include tests\nperformed in both longitudinal and transverse orientation on test pieces containing\nartificial defects of the type which the testing procedure is intended to detect. The speed\nof calibration testing shall be compared to that of production testing. The notch type\nshall be N5. Calibration notch maximum length shall be 1.0 inch. Manual ultrasonic units\nshall be calibrated by CONTRACTOR i",
+        "position": 36434
+      },
+      {
+        "text": "e the previous calibration shall be\nretested after the equipment has been correctly calibrated. The results of all calibrations\nshould be recorded and made available to COMPANY REPRESENTATIVE.\n8.4 Inspection Requirements\nThe surface examined shall be clean and smooth and free of tool marks, i.e. free from\ndirt, paint or any other foreign matter which would invalidate the test or which may\ninfluence the results of testing. All line pipe shall be completely examined along the body\nultrasonically for defects by CONTRACTOR. Pipe ultrasonic inspection method shall be in\naccordance with API 5L, Section 9 and Appendix F Supplementary Requirements SR4.\nThe surface of the bevel on all pipe lengths shall be smooth and free from tool marks.\nCONTRACTOR shall inspect every completed bevel for laminations and cracks by\nMagnetic Particle Inspection in accordance with ASME V, Article 7, Clauses T-743 or T-\n744 or COMPANY approved equivalent.\nPage 20 of 27 Angostura Field Development\nSpecification for Seamless Line Pipe\nDocument No.: GG-ANG-QS-00-8031\nRevision No.: 2\nIssue Date: 23 August 03\n8.5 Acce",
+        "position": 38158
+      },
+      {
+        "text": "dirt, paint or any other foreign matter which would invalidate the test or which may\ninfluence the results of testing. All line pipe shall be completely examined along the body\nultrasonically for defects by CONTRACTOR. Pipe ultrasonic inspection method shall be in\naccordance with API 5L, Section 9 and Appendix F Supplementary Requirements SR4.\nThe surface of the bevel on all pipe lengths shall be smooth and free from tool marks.\nCONTRACTOR shall inspect every completed bevel for laminations and cracks by\nMagnetic Particle Inspection in accordance with ASME V, Article 7, Clauses T-743 or T-\n744 or COMPANY approved equivalent.\nPage 20 of 27 Angostura Field Development\nSpecification for Seamless Line Pipe\nDocument No.: GG-ANG-QS-00-8031\nRevision No.: 2\nIssue Date: 23 August 03\n8.5 Acceptance Criteria\nAcceptance shall be in accordance with API 5L Section 9 including Appendix F\nSupplementary Requirements SR4 and this Specification. An imperfection in excess of\n0.04 inch in depth and 1 inch in length shall be considered an injurious defect and shall\nbe given one of the dispositions specif",
+        "position": 38464
+      },
+      {
+        "text": "lidated by COMPANY's representative in accordance with EN 10204\n3.1C.\nCertification shall cover all results required by this Specification. All certificates shall be\nmarked with sufficient information to enable full traceability to the items it represents and\nthe relevant specifications and procedures.\nPage 24 of 27 Angostura Field Development\nSpecification for Seamless Line Pipe\nDocument No.: GG-ANG-QS-00-8031\nRevision No.: 2\nIssue Date: 23 August 03\n12.0 HANDLING, TRANSPORT AND STORAGE\n12.1 General\nCONTRACTOR shall submit for COMPANY approval, information detailing the proposed\nmethod of handling, stacking, and securing line pipe lengths during manufacture, storage\nand shipment. No welding of temporary attachments for handling, stacking or securing\nshall be permitted. All handling, loading and unloading shall be performed in such a safe\nmanner as to avoid mechanical damage and corrosion. All handling shall be performed\nwith certified soft slings, or pipe-shaped padded hooks reviewed and/or approved by\nCOMPANY.\n12.2 Bevel Protectors\nBevel protectors or hookable plastic end-caps, of",
+        "position": 46443
+      },
+      {
+        "text": "ce to quality requirements. Quality records shall be made available to\nCOMPANY’s Representative for analysis and review.\nPage 26 of 27 Angostura Field Development\nSpecification for Seamless Line Pipe\nDocument No.: GG-ANG-QS-00-8031\nRevision No.: 2\nIssue Date: 23 August 03\n13.3.2 Quality records shall include item identification by reference to revision number,\nacceptance criteria, specific inspections performed and results obtained (if\nmeasurements are not a requirement, include in the record the basis of acceptance),\ndate of inspection, identification of inspector, data recorder charts, qualification of\nmaterial, personnel, procedures and equipment. The CONTRACTOR shall perform trend\nanalyses of all factors affecting the quality of the product.\n13.4 Final Inspection\nThe CONTRACTOR shall inspect the line pipe to ensure compliance with Contract\nrequirements and check all inspection records to verify that the line pipe was inspected\nat all points shown in the Quality Plan and that these records are complete.\n13.5 Tracking System\nThe CONTRACTOR shall operate a line pipe tracking system",
+        "position": 50714
+      },
+      {
+        "text": "tification by reference to revision number,\nacceptance criteria, specific inspections performed and results obtained (if\nmeasurements are not a requirement, include in the record the basis of acceptance),\ndate of inspection, identification of inspector, data recorder charts, qualification of\nmaterial, personnel, procedures and equipment. The CONTRACTOR shall perform trend\nanalyses of all factors affecting the quality of the product.\n13.4 Final Inspection\nThe CONTRACTOR shall inspect the line pipe to ensure compliance with Contract\nrequirements and check all inspection records to verify that the line pipe was inspected\nat all points shown in the Quality Plan and that these records are complete.\n13.5 Tracking System\nThe CONTRACTOR shall operate a line pipe tracking system which ensures full\ntraceability of each individual pipe length to its particular heat number, and which\nrecords all stages of the pipe manufacturing process. The CONTRACTOR shall submit full\ndetails of the pipe tracking system for approval.\n13.6 Verification\nAt the sole discretion of COMPANY, the CONTRACTOR's inspecti",
+        "position": 51033
+      }
+    ]
+  },
+  "metrics": {
+    "percentage": [
+      "6.5%",
+      "80 %",
+      "80%",
+      "2%",
+      "8%",
+      "3.5%",
+      "12%",
+      "1.0%",
+      "10%",
+      "0.15%",
+      "5%",
+      "100%"
+    ],
+    "numbers": [
+      "21",
+      "9.5",
+      "9.0",
+      "27",
+      "1.3",
+      "41.3",
+      "7.9",
+      "3.0",
+      "2.0",
+      "10.0",
+      "0.10",
+      "25",
+      "0.04",
+      "00",
+      "14",
+      "10.1",
+      "11",
+      "5.3",
+      "9.6",
+      "5.4",
+      "0.08",
+      "8.5",
+      "3.3",
+      "4.0",
+      "6",
+      "5.1",
+      "1",
+      "12",
+      "7.6",
+      "9.1",
+      "13.3",
+      "7.5",
+      "1.4",
+      "24",
+      "12.0",
+      "8.3",
+      "13.6",
+      "100",
+      "8.6",
+      "0.12",
+      "5.0",
+      "4",
+      "1.2",
+      "26",
+      "219.1",
+      "13.4",
+      "1.60",
+      "0.009",
+      "0.07",
+      "32",
+      "273.1",
+      "18",
+      "3.6",
+      "10204",
+      "13",
+      "4.1",
+      "3",
+      "22",
+      "6.0",
+      "13.7",
+      "03",
+      "10",
+      "9.7",
+      "17",
+      "7.3",
+      "7.7",
+      "0.025",
+      "743",
+      "4.3",
+      "10.3",
+      "200",
+      "7.4",
+      "0.0050",
+      "12.4",
+      "39.4",
+      "13.0",
+      "6.4",
+      "0.36",
+      "9.3",
+      "0.006",
+      "0.21",
+      "1.8",
+      "0",
+      "80",
+      "7.0",
+      "12.2",
+      "8",
+      "1104",
+      "6.5",
+      "1.1",
+      "5",
+      "9.4",
+      "9",
+      "3.1",
+      "0.020",
+      "148",
+      "7.2",
+      "4.2",
+      "8.0",
+      "12.6",
+      "744",
+      "16",
+      "0.29",
+      "8.2",
+      "20",
+      "8.7",
+      "30",
+      "5.2",
+      "2003",
+      "270",
+      "60",
+      "10.2",
+      "7",
+      "7.1",
+      "112",
+      "13.2",
+      "8.1",
+      "3.5",
+      "11.0",
+      "1.6",
+      "19",
+      "370",
+      "0.15",
+      "10474",
+      "0.050",
+      "40",
+      "8501",
+      "150",
+      "9.2",
+      "23",
+      "7.8",
+      "15",
+      "02",
+      "0.45",
+      "3.2",
+      "12.3",
+      "9001",
+      "1.0",
+      "3.4",
+      "13.1",
+      "176",
+      "12.1",
+      "8031",
+      "8.4",
+      "13.5",
+      "0.90",
+      "2",
+      "0.0005"
+    ]
+  },
+  "qa_pairs": [
+    {
+      "question": "What is the main topic of this document?",
+      "answer": "Based on the document content: ANGOSTURA FIELD DEVELOPMENT\nTRINIDAD AND TOBAGO\nSeamless Line Pipe\nSpecification\nDOCUMENT NO. GG-ANG-QS-00-8031\n\"© 2003 BHP Billiton Petroleum Pty Ltd: This document and information contained in it is...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the key findings?",
+      "answer": "Based on the document content: ANGOSTURA FIELD DEVELOPMENT\nTRINIDAD AND TOBAGO\nSeamless Line Pipe\nSpecification\nDOCUMENT NO. GG-ANG-QS-00-8031\n\"© 2003 BHP Billiton Petroleum Pty Ltd: This document and information contained in it is...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the main conclusions?",
+      "answer": "Based on the document content: ANGOSTURA FIELD DEVELOPMENT\nTRINIDAD AND TOBAGO\nSeamless Line Pipe\nSpecification\nDOCUMENT NO. GG-ANG-QS-00-8031\n\"© 2003 BHP Billiton Petroleum Pty Ltd: This document and information contained in it is...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What recommendations are provided?",
+      "answer": "Based on the document content: ANGOSTURA FIELD DEVELOPMENT\nTRINIDAD AND TOBAGO\nSeamless Line Pipe\nSpecification\nDOCUMENT NO. GG-ANG-QS-00-8031\n\"© 2003 BHP Billiton Petroleum Pty Ltd: This document and information contained in it is...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What methodology was used?",
+      "answer": "Based on the document content: ANGOSTURA FIELD DEVELOPMENT\nTRINIDAD AND TOBAGO\nSeamless Line Pipe\nSpecification\nDOCUMENT NO. GG-ANG-QS-00-8031\n\"© 2003 BHP Billiton Petroleum Pty Ltd: This document and information contained in it is...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the columns in the table on page 13?",
+      "answer": "The table has the following columns: Element, Max. permitted content, wt%",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 13?",
+      "answer": "The table has 14 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    }
+  ],
+  "tables": [
+    {
+      "page": 1,
+      "table_num": 1,
+      "data": [
+        [
+          "ANGOSTURA FIELD DEVELOPMENT\nTRINIDAD AND TOBAGO\nSeamless Line Pipe\nSpecification\nDOCUMENT NO. GG-ANG-QS-00-8031\n\"© 2003 BHP Billiton Petroleum Pty Ltd: This document and information contained in it is the sole property of BHP Billiton Petroleum Pty Ltd\nand may not be exploited, used, copied, duplicated or reproduced in any form or medium whatever without the prior permission of BHP Billiton\nPetroleum Pty Ltd.\"\n\"All information, data, specifications, drawings, reports, accounts or other documents and things made available by BHP Billiton Petroleum in any\nform or medium whatever, together with all copyright, confidential information, patent, design or other such rights in the same, are either owned by or\nlicensed to BHP Billiton Petroleum Pty Ltd. The same may not be exploited, used, copied, duplicated or reproduced in any medium or form whatever\nexcept with the prior written approval of BHP Billiton Petroleum Pty Ltd.\"",
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "REVISION",
+          "DATE",
+          "DESCRIPTION",
+          "ORIGINATOR",
+          "CHECKER",
+          "APPROVER"
+        ],
+        [
+          "A",
+          "17 Sep 02",
+          "Issued for Review and Comment",
+          "TT",
+          "NH",
+          "EB"
+        ],
+        [
+          "B",
+          "30 Sep 02",
+          "Issued for Installation Bid",
+          "TT",
+          "NH",
+          "MC"
+        ],
+        [
+          "0",
+          "19 Dec 02",
+          "Issued for Use",
+          "NH",
+          "MC",
+          "KP"
+        ],
+        [
+          "1",
+          "02 Apr 03",
+          "Issued for Purchase",
+          "JTT",
+          "NH",
+          "MC"
+        ],
+        [
+          "2",
+          "23 Aug 03",
+          "Approved for construction\n(Tamsa)",
+          "NH",
+          "MS",
+          "MC"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "page": 13,
+      "table_num": 1,
+      "data": [
+        [
+          "Element",
+          "Max. permitted content, wt%"
+        ],
+        [
+          "Carbon",
+          "0.12"
+        ],
+        [
+          "Manganese",
+          "1.60"
+        ],
+        [
+          "Silicon",
+          "0.45"
+        ],
+        [
+          "Phosphorous",
+          "0.020"
+        ],
+        [
+          "Sulphur",
+          "0.006"
+        ],
+        [
+          "Aluminum",
+          "0.050"
+        ],
+        [
+          "Titanium",
+          "0.025"
+        ],
+        [
+          "Vanadium",
+          "0.08"
+        ],
+        [
+          "Niobium",
+          "0.07"
+        ],
+        [
+          "Nitrogen",
+          "0.009"
+        ],
+        [
+          "Boron",
+          "0.0005"
+        ],
+        [
+          "Calcium",
+          "0.0050"
+        ],
+        [
+          "CE1",
+          "0.36"
+        ],
+        [
+          "Pcm2",
+          "0.21"
+        ]
+      ]
+    }
+  ],
+  "text_summary": {
+    "total_pages": 27,
+    "total_tables": 2,
+    "total_qa_pairs": 7
+  }
+}

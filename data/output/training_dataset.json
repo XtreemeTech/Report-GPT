@@ -1,0 +1,1311 @@
+{
+  "metadata": {
+    "created_at": "2025-08-12T08:34:21.942776",
+    "total_documents": 11,
+    "total_qa_pairs": 203,
+    "version": "1.0"
+  },
+  "qa_pairs": [
+    {
+      "question": "What is the main topic of this document?",
+      "answer": "Based on the document content: ANGOSTURA FIELD DEVELOPMENT\nTRINIDAD AND TOBAGO\nSeamless Line Pipe\nSpecification\nDOCUMENT NO. GG-ANG-QS-00-8031\n\"© 2003 BHP Billiton Petroleum Pty Ltd: This document and information contained in it is...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the key findings?",
+      "answer": "Based on the document content: ANGOSTURA FIELD DEVELOPMENT\nTRINIDAD AND TOBAGO\nSeamless Line Pipe\nSpecification\nDOCUMENT NO. GG-ANG-QS-00-8031\n\"© 2003 BHP Billiton Petroleum Pty Ltd: This document and information contained in it is...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the main conclusions?",
+      "answer": "Based on the document content: ANGOSTURA FIELD DEVELOPMENT\nTRINIDAD AND TOBAGO\nSeamless Line Pipe\nSpecification\nDOCUMENT NO. GG-ANG-QS-00-8031\n\"© 2003 BHP Billiton Petroleum Pty Ltd: This document and information contained in it is...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What recommendations are provided?",
+      "answer": "Based on the document content: ANGOSTURA FIELD DEVELOPMENT\nTRINIDAD AND TOBAGO\nSeamless Line Pipe\nSpecification\nDOCUMENT NO. GG-ANG-QS-00-8031\n\"© 2003 BHP Billiton Petroleum Pty Ltd: This document and information contained in it is...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What methodology was used?",
+      "answer": "Based on the document content: ANGOSTURA FIELD DEVELOPMENT\nTRINIDAD AND TOBAGO\nSeamless Line Pipe\nSpecification\nDOCUMENT NO. GG-ANG-QS-00-8031\n\"© 2003 BHP Billiton Petroleum Pty Ltd: This document and information contained in it is...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the columns in the table on page 13?",
+      "answer": "The table has the following columns: Element, Max. permitted content, wt%",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 13?",
+      "answer": "The table has 14 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What is the main topic of this document?",
+      "answer": "Based on the document content: ProjectNo Unit Document Material Serial Rev. Page\nType Code No\nES011482 000 MR 3500 8001 C 1/1\nBHPBDCN: AR-AGP-QZ-36-0001\nANGOSTURAGASPROJECT\nBHPBILLITONPETROLEUM(TRINIDAD2C)LIMITED\nEQUIPMENT/BULKMATE...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the key findings?",
+      "answer": "Based on the document content: ProjectNo Unit Document Material Serial Rev. Page\nType Code No\nES011482 000 MR 3500 8001 C 1/1\nBHPBDCN: AR-AGP-QZ-36-0001\nANGOSTURAGASPROJECT\nBHPBILLITONPETROLEUM(TRINIDAD2C)LIMITED\nEQUIPMENT/BULKMATE...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the main conclusions?",
+      "answer": "Based on the document content: ProjectNo Unit Document Material Serial Rev. Page\nType Code No\nES011482 000 MR 3500 8001 C 1/1\nBHPBDCN: AR-AGP-QZ-36-0001\nANGOSTURAGASPROJECT\nBHPBILLITONPETROLEUM(TRINIDAD2C)LIMITED\nEQUIPMENT/BULKMATE...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What recommendations are provided?",
+      "answer": "Based on the document content: ProjectNo Unit Document Material Serial Rev. Page\nType Code No\nES011482 000 MR 3500 8001 C 1/1\nBHPBDCN: AR-AGP-QZ-36-0001\nANGOSTURAGASPROJECT\nBHPBILLITONPETROLEUM(TRINIDAD2C)LIMITED\nEQUIPMENT/BULKMATE...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What methodology was used?",
+      "answer": "Based on the document content: ProjectNo Unit Document Material Serial Rev. Page\nType Code No\nES011482 000 MR 3500 8001 C 1/1\nBHPBDCN: AR-AGP-QZ-36-0001\nANGOSTURAGASPROJECT\nBHPBILLITONPETROLEUM(TRINIDAD2C)LIMITED\nEQUIPMENT/BULKMATE...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the columns in the table on page 1?",
+      "answer": "The table has the following columns: , , , , , ",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 1?",
+      "answer": "The table has 17 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What is the main topic of this document?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the key findings?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the main conclusions?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What recommendations are provided?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What methodology was used?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What is the main topic of this document?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the key findings?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the main conclusions?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What recommendations are provided?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What methodology was used?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What is the main topic of this document?",
+      "answer": "Based on the document content: TotalFinaElf E&P Angola Dalia Project\nRef. : AO32-4-013-000-LD-00-SW-001\nSPECIFICATION Rev. : 3 of 20/02/03\nFLOWLINES RISERS EXPORT LINES SPECIFICATION Page 1 of 119\nRev. Date Designation Written by R...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the key findings?",
+      "answer": "Based on the document content: TotalFinaElf E&P Angola Dalia Project\nRef. : AO32-4-013-000-LD-00-SW-001\nSPECIFICATION Rev. : 3 of 20/02/03\nFLOWLINES RISERS EXPORT LINES SPECIFICATION Page 1 of 119\nRev. Date Designation Written by R...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the main conclusions?",
+      "answer": "Based on the document content: TotalFinaElf E&P Angola Dalia Project\nRef. : AO32-4-013-000-LD-00-SW-001\nSPECIFICATION Rev. : 3 of 20/02/03\nFLOWLINES RISERS EXPORT LINES SPECIFICATION Page 1 of 119\nRev. Date Designation Written by R...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What recommendations are provided?",
+      "answer": "Based on the document content: TotalFinaElf E&P Angola Dalia Project\nRef. : AO32-4-013-000-LD-00-SW-001\nSPECIFICATION Rev. : 3 of 20/02/03\nFLOWLINES RISERS EXPORT LINES SPECIFICATION Page 1 of 119\nRev. Date Designation Written by R...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What methodology was used?",
+      "answer": "Based on the document content: TotalFinaElf E&P Angola Dalia Project\nRef. : AO32-4-013-000-LD-00-SW-001\nSPECIFICATION Rev. : 3 of 20/02/03\nFLOWLINES RISERS EXPORT LINES SPECIFICATION Page 1 of 119\nRev. Date Designation Written by R...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the columns in the table on page 1?",
+      "answer": "The table has the following columns: Dalia Project, Ref. : AO32-4-013-000-LD-00-SW-001",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 1?",
+      "answer": "The table has 2 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 1?",
+      "answer": "The table has the following columns: Rev., Date, Designation, Written by, Reviewed by, Approved\nby",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 1?",
+      "answer": "The table has 6 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 6?",
+      "answer": "The table has the following columns: Reference, Title",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 6?",
+      "answer": "The table has 7 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 7?",
+      "answer": "The table has the following columns: AO32-1-018-000-00-00-TE-004, Subsea Operating Pressure and Temperature Assessment",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 7?",
+      "answer": "The table has 24 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 8?",
+      "answer": "The table has the following columns: AO32-1-018-760 00 00 DA 760, Water injection X Tree",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 8?",
+      "answer": "The table has 12 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 8?",
+      "answer": "The table has the following columns: Reference, Title",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 8?",
+      "answer": "The table has 9 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 9?",
+      "answer": "The table has the following columns: SG.SUR.020.P, Offshore Surface Positioning Works",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 9?",
+      "answer": "The table has 23 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 10?",
+      "answer": "The table has the following columns: SG.STR.008.P, Offshore Structures Constructions standards",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 10?",
+      "answer": "The table has 22 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 11?",
+      "answer": "The table has the following columns: Reference, Title",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 11?",
+      "answer": "The table has 9 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 18?",
+      "answer": "The table has the following columns: Maximum bending moment at lower I-tube support [ kNm, 2056",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 18?",
+      "answer": "The table has 1 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 27?",
+      "answer": "The table has the following columns: A ROV access study shall be carried out using a 3 D model comprising Structures, ROV and Units/Components",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 27?",
+      "answer": "The table has 2 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 30?",
+      "answer": "The table has the following columns: CONTRACTOR shall develop and implement a Reliability, Availability and Maintainability program. This document",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 30?",
+      "answer": "The table has 3 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 31?",
+      "answer": "The table has the following columns: Reliability, Availability and Maintainability targets shall be checked against design at each stage of project and be",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 31?",
+      "answer": "The table has 1 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 32?",
+      "answer": "The table has the following columns: CONTRACTOR shall develop a decommissioning plan with corresponding operational procedures for the, flowline",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 32?",
+      "answer": "The table has 1 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 36?",
+      "answer": "The table has the following columns: Test number, Product, object",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 36?",
+      "answer": "The table has 5 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 37?",
+      "answer": "The table has the following columns: 1, IPB, Full scale bending and pulling tests on end fitting",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 37?",
+      "answer": "The table has 8 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 49?",
+      "answer": "The table has the following columns: All Units shall be provided with lifting points and attachment points with the necessary equipment to lift and",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 49?",
+      "answer": "The table has 2 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 49?",
+      "answer": "The table has the following columns: •, Rotating lifting points such as threaded lift caps, swivels etc. shall not be used on Units with weight above 50",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 49?",
+      "answer": "The table has 1 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 65?",
+      "answer": "The table has the following columns: N°, Prod, Test, Objective, Status",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 65?",
+      "answer": "The table has 16 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 66?",
+      "answer": "The table has the following columns: Title, IPB Dalia (cid:150) Full scale bending & pulling test",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 66?",
+      "answer": "The table has 8 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 67?",
+      "answer": "The table has the following columns: Title, IPB Dalia – Full scale crushing test",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 67?",
+      "answer": "The table has 8 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 68?",
+      "answer": "The table has the following columns: Title, IPB Dalia – Full scale IPB fatigue test",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 68?",
+      "answer": "The table has 8 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 69?",
+      "answer": "The table has the following columns: Title, IPB Dalia – Full scale thermal test with hand made IPB sample",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 69?",
+      "answer": "The table has 9 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 70?",
+      "answer": "The table has the following columns: Title, IPB Dalia – Full scale thermal test with final product IPB sample",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 70?",
+      "answer": "The table has 9 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 71?",
+      "answer": "The table has the following columns: Title, IPB Dalia – Cool Down Time of IPB Bottom End-Fitting",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 71?",
+      "answer": "The table has 9 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 72?",
+      "answer": "The table has the following columns: Title, IPB Dalia – Electrical cables mechanical & fatigue test",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 72?",
+      "answer": "The table has 9 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 73?",
+      "answer": "The table has the following columns: Title, IPB Dalia (cid:150) MO-03 test",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 73?",
+      "answer": "The table has 8 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 73?",
+      "answer": "The table has the following columns: THERMAL TEST, Comments",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 73?",
+      "answer": "The table has 17 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 74?",
+      "answer": "The table has the following columns: Dalia Project, Ref. : AO32-4-013-000-LD-00-SW-001",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 74?",
+      "answer": "The table has 2 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 74?",
+      "answer": "The table has the following columns: Title, Deep Water Test for IPB (DIP test)",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 74?",
+      "answer": "The table has 8 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 75?",
+      "answer": "The table has the following columns: Title, IPB Dalia – Full scale Gas Injection fatigue test",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 75?",
+      "answer": "The table has 8 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 76?",
+      "answer": "The table has the following columns: Dalia Project, Ref. : AO32-4-013-000-LD-00-SW-001",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 76?",
+      "answer": "The table has 2 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 76?",
+      "answer": "The table has the following columns: Title, Deep Water Test for Gas Injection riser (DIP test)",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 76?",
+      "answer": "The table has 8 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 77?",
+      "answer": "The table has the following columns: Title, IPB Dalia – Full scale Water Injection fatigue test",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 77?",
+      "answer": "The table has 8 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 78?",
+      "answer": "The table has the following columns: Dalia Project, Ref. : AO32-4-013-000-LD-00-SW-001",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 78?",
+      "answer": "The table has 2 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 78?",
+      "answer": "The table has the following columns: Title, Deep Water Test for Water Injection riser (DIP test)",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 78?",
+      "answer": "The table has 8 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 79?",
+      "answer": "The table has the following columns: Title, PiP Dalia (cid:150) PiP Reeling Trial",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 79?",
+      "answer": "The table has 8 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 80?",
+      "answer": "The table has the following columns: Title, PiP Dalia – PiP Thermal Test",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 80?",
+      "answer": "The table has 9 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 81?",
+      "answer": "The table has the following columns: Dalia Project, Ref. : AO32-4-013-000-LD-00-SW-001",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 81?",
+      "answer": "The table has 2 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 81?",
+      "answer": "The table has the following columns: Title, Aerogel Spaceloft Ageing Test",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 81?",
+      "answer": "The table has 9 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 83?",
+      "answer": "The table has the following columns: Title, Production Flowline Well Jumper/ Subsea Tree/ Manifold Integration",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 83?",
+      "answer": "The table has 8 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 84?",
+      "answer": "The table has the following columns: Personnel Requirements, • CSO Installation Engineer\n• CSO Project RSU Team including Project ROV Superintendent,\nProject Tie-in Tool Superintendent, Senior ROV Operators, Senior Tie-\nin Tool Operators\n• Rigging Crew\n• Film / Video crew",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 84?",
+      "answer": "The table has 1 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 85?",
+      "answer": "The table has the following columns: Title, Water Injection Flowline Jumper / Subsea Tree / In-line Tee/Flet\nIntegration",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 85?",
+      "answer": "The table has 8 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 86?",
+      "answer": "The table has the following columns: Personnel Requirements, • Crane Operator & Riggers (2)\n• CSO Installation Engineer\n• CSO Project ROV Superintendent\n• CSO RSU Team including Project Tie-in Tool Superintendent, Senior\nROV Operators, Senior Tie-in Tools Operators\n• Film / Video crew",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 86?",
+      "answer": "The table has 1 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 87?",
+      "answer": "The table has the following columns: Title, Gas Injection Flowline Jumper / Subsea Tree / In-line Tee",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 87?",
+      "answer": "The table has 8 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 88?",
+      "answer": "The table has the following columns: Personnel Requirements, • Service Equipment Operators\n• CSO Installation Engineer\n• CSO Project RSU Team including Project ROV Superintendent,\nProject Tie-in Tool Superintendent, Senior ROV Operators, Senior Tie-\nin Tool Operators\n• Crane Operator and Riggers\n• Film / Video crew",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 88?",
+      "answer": "The table has 1 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 89?",
+      "answer": "The table has the following columns: Title, Production Flowline Jumper (Spool) / Manifold Integration",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 89?",
+      "answer": "The table has 8 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 90?",
+      "answer": "The table has the following columns: Personnel Requirements, • CSO Installation Engineer\n• CSO Project RSU Team including Project ROV Superintendent,\nProject Tie-in Tool Superintendent, Senior ROV Operators, Senior Tie-\nin Tool Operators\n• Crane Operator and Rigging crew\n• Film / Video crew",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 90?",
+      "answer": "The table has 1 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 91?",
+      "answer": "The table has the following columns: Title, Pig / Manifold / Jumper System Tests",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 91?",
+      "answer": "The table has 10 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 92?",
+      "answer": "The table has the following columns: Title, ROV / Integration Test",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 92?",
+      "answer": "The table has 9 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 94?",
+      "answer": "The table has the following columns: Title, Jumper Misalignment Test",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 94?",
+      "answer": "The table has 10 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 95?",
+      "answer": "The table has the following columns: Title, Flying Lead Installation and Removal",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 95?",
+      "answer": "The table has 10 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 96?",
+      "answer": "The table has the following columns: Title, ROV / UTA System Test",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 96?",
+      "answer": "The table has 8 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 97?",
+      "answer": "The table has the following columns: Personnel Requirements, • Kvaerner Service Equipment Operators\n• CSO Installation Engineer\n• CSO RSU Team including Project ROV Superintendent, Senior ROV\nOperators, Senior Tie-in Tool Operators\n• Film / Video crew",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 97?",
+      "answer": "The table has 1 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 98?",
+      "answer": "The table has the following columns: Title, Manifold ROV Operations",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 98?",
+      "answer": "The table has 10 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 99?",
+      "answer": "The table has the following columns: Title, FLET Initiation",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 99?",
+      "answer": "The table has 10 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 100?",
+      "answer": "The table has the following columns: Title, Trial of Dog House Installation",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 100?",
+      "answer": "The table has 10 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 101?",
+      "answer": "The table has the following columns: Title, FPSO Interface Checks – Top Side",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 101?",
+      "answer": "The table has 10 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 102?",
+      "answer": "The table has the following columns: Title, FPSO Interface Checks / Subsea",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 102?",
+      "answer": "The table has 10 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 103?",
+      "answer": "The table has the following columns: Title, FPSO pull-in system functional and load test",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 103?",
+      "answer": "The table has 10 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 104?",
+      "answer": "The table has the following columns: Title, PIP / IPB insulation collar installation test",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 104?",
+      "answer": "The table has 10 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 105?",
+      "answer": "The table has the following columns: Title, I-tube bottom guides and BSF test",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 105?",
+      "answer": "The table has 10 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 107?",
+      "answer": "The table has the following columns: Title, Spool Integration between Manifold and FLET",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 107?",
+      "answer": "The table has 10 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 108?",
+      "answer": "The table has the following columns: Title, Temporary Pig Receiver Integration Test",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 108?",
+      "answer": "The table has 10 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 109?",
+      "answer": "The table has the following columns: Title, Acoustic Shackle Test",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 109?",
+      "answer": "The table has 10 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 110?",
+      "answer": "The table has the following columns: Title, Acoustic Metrology",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 110?",
+      "answer": "The table has 10 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 111?",
+      "answer": "The table has the following columns: Title, Taut Wire Metrology",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 111?",
+      "answer": "The table has 10 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What is the main topic of this document?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the key findings?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the main conclusions?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What recommendations are provided?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What methodology was used?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What is the main topic of this document?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the key findings?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the main conclusions?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What recommendations are provided?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What methodology was used?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What is the main topic of this document?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the key findings?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the main conclusions?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What recommendations are provided?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What methodology was used?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What is the main topic of this document?",
+      "answer": "Based on the document content: TECHNICAL SPECIFICATION N r.: I-ET-3903.06-6511-211-TUK-3295\nClient User: E & P Sheet: 1 OF 26\nJob or Unit:\nPDET Profundo\nC.C.\nArea or Unit BACIA DE CAMPOS\nENGENHARIA / Title:\nSPECIFICATION FOR SAW PI...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the key findings?",
+      "answer": "Based on the document content: TECHNICAL SPECIFICATION N r.: I-ET-3903.06-6511-211-TUK-3295\nClient User: E & P Sheet: 1 OF 26\nJob or Unit:\nPDET Profundo\nC.C.\nArea or Unit BACIA DE CAMPOS\nENGENHARIA / Title:\nSPECIFICATION FOR SAW PI...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the main conclusions?",
+      "answer": "Based on the document content: TECHNICAL SPECIFICATION N r.: I-ET-3903.06-6511-211-TUK-3295\nClient User: E & P Sheet: 1 OF 26\nJob or Unit:\nPDET Profundo\nC.C.\nArea or Unit BACIA DE CAMPOS\nENGENHARIA / Title:\nSPECIFICATION FOR SAW PI...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What recommendations are provided?",
+      "answer": "Based on the document content: TECHNICAL SPECIFICATION N r.: I-ET-3903.06-6511-211-TUK-3295\nClient User: E & P Sheet: 1 OF 26\nJob or Unit:\nPDET Profundo\nC.C.\nArea or Unit BACIA DE CAMPOS\nENGENHARIA / Title:\nSPECIFICATION FOR SAW PI...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What methodology was used?",
+      "answer": "Based on the document content: TECHNICAL SPECIFICATION N r.: I-ET-3903.06-6511-211-TUK-3295\nClient User: E & P Sheet: 1 OF 26\nJob or Unit:\nPDET Profundo\nC.C.\nArea or Unit BACIA DE CAMPOS\nENGENHARIA / Title:\nSPECIFICATION FOR SAW PI...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the columns in the table on page 6?",
+      "answer": "The table has the following columns: , Ref, , Doc. Number, Title, Rev.",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 6?",
+      "answer": "The table has 11 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 6?",
+      "answer": "The table has the following columns: , Ref, , Doc. Number, Title, Rev.",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 6?",
+      "answer": "The table has 3 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 6?",
+      "answer": "The table has the following columns: , Ref, , Doc. Number, Title, Rev.",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 6?",
+      "answer": "The table has 5 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 12?",
+      "answer": "The table has the following columns: , Parent Material, Weld / HAZ",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 12?",
+      "answer": "The table has 2 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What are the columns in the table on page 26?",
+      "answer": "The table has the following columns: xxx\nx, x xxx\nx\nx",
+      "source": "table_analysis",
+      "confidence": 0.9
+    },
+    {
+      "question": "How many rows are in the table on page 26?",
+      "answer": "The table has 1 data rows.",
+      "source": "table_analysis",
+      "confidence": 0.95
+    },
+    {
+      "question": "What is the main topic of this document?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the key findings?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the main conclusions?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What recommendations are provided?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What methodology was used?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What is the main topic of this document?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the key findings?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What are the main conclusions?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What recommendations are provided?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    },
+    {
+      "question": "What methodology was used?",
+      "answer": "Based on the document content: ...",
+      "source": "document_analysis",
+      "confidence": 0.8
+    }
+  ],
+  "documents": [
+    {
+      "file_path": "data\\input\\folder_1Aj-clvMvtDwal-dF5PDDFl6WZXFMcBXv\\file_01_14GRtoMX8CWyBpv8V3tzX_W4hCL1LnIKZ.pdf",
+      "sections": [
+        "introduction",
+        "methodology",
+        "results"
+      ],
+      "metrics_count": 2,
+      "qa_pairs_count": 7
+    },
+    {
+      "file_path": "data\\input\\folder_1Aj-clvMvtDwal-dF5PDDFl6WZXFMcBXv\\file_02_1FIrI9ghNObUk1-P1kCMT1gv8E_mLOhQZ.pdf",
+      "sections": [],
+      "metrics_count": 2,
+      "qa_pairs_count": 7
+    },
+    {
+      "file_path": "data\\input\\folder_1Aj-clvMvtDwal-dF5PDDFl6WZXFMcBXv\\file_03_1deBf7GVt8T9sDA-vYsIIGoatObcfXH-J.doc",
+      "sections": [],
+      "metrics_count": 0,
+      "qa_pairs_count": 5
+    },
+    {
+      "file_path": "data\\input\\folder_1Aj-clvMvtDwal-dF5PDDFl6WZXFMcBXv\\file_04_1s1RiU2OuZYTEbOL63RFiKDnD4d_6wrA0.doc",
+      "sections": [],
+      "metrics_count": 0,
+      "qa_pairs_count": 5
+    },
+    {
+      "file_path": "data\\input\\folder_1Aj-clvMvtDwal-dF5PDDFl6WZXFMcBXv\\file_05_14zZZMCHXFTrlT9_x2sy8bOjnYD8uhx17.pdf",
+      "sections": [
+        "executive_summary",
+        "introduction",
+        "methodology",
+        "results",
+        "conclusion",
+        "recommendations"
+      ],
+      "metrics_count": 3,
+      "qa_pairs_count": 139
+    },
+    {
+      "file_path": "data\\input\\folder_1Aj-clvMvtDwal-dF5PDDFl6WZXFMcBXv\\file_06_1x2vCykM3uJ6ugMYWQZ1gAaC9CLgTjO42.doc",
+      "sections": [],
+      "metrics_count": 0,
+      "qa_pairs_count": 5
+    },
+    {
+      "file_path": "data\\input\\folder_1Aj-clvMvtDwal-dF5PDDFl6WZXFMcBXv\\file_07_1dyYRTLjURYwbOHCrnJ5YwwdMD_mDFVwH.doc",
+      "sections": [],
+      "metrics_count": 0,
+      "qa_pairs_count": 5
+    },
+    {
+      "file_path": "data\\input\\folder_1Aj-clvMvtDwal-dF5PDDFl6WZXFMcBXv\\file_08_1zyvRheChRJGLZkQVbwBcpjoYvhaiFml4.doc",
+      "sections": [],
+      "metrics_count": 0,
+      "qa_pairs_count": 5
+    },
+    {
+      "file_path": "data\\input\\folder_1Aj-clvMvtDwal-dF5PDDFl6WZXFMcBXv\\file_09_1ui8OTSTzYJc_GfTuz3QfzPJoZs2nz7lN.pdf",
+      "sections": [
+        "introduction",
+        "methodology",
+        "results"
+      ],
+      "metrics_count": 3,
+      "qa_pairs_count": 15
+    },
+    {
+      "file_path": "data\\input\\folder_1Aj-clvMvtDwal-dF5PDDFl6WZXFMcBXv\\file_10_1ol9VgqSiYQk1escj1RAr8Mpew1tOEvVf.DOC",
+      "sections": [],
+      "metrics_count": 0,
+      "qa_pairs_count": 5
+    },
+    {
+      "file_path": "data\\input\\folder_1Aj-clvMvtDwal-dF5PDDFl6WZXFMcBXv\\file_11_1zDwznjA2RbMDKWRtRCcuq0P-Qfr0J19z.doc",
+      "sections": [],
+      "metrics_count": 0,
+      "qa_pairs_count": 5
+    }
+  ]
+}
