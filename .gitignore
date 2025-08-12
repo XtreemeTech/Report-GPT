@@ -141,4 +141,18 @@ Thumbs.db
 
 # 
 
-data/
+
+# Large files that shouldn't be in git
+*.pdf
+*.doc
+*.docx
+*.xlsx
+*.csv
+
+# Data output files (large generated files)
+data/output/*.json
+data/output/*.pdf
+data/output/*.doc
+data/output/*.docx
+data/output/*.xlsx
+data/output/*.csv
