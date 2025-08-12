@@ -9,9 +9,7 @@ from src.modules.google_drive_reader import GoogleDriveReader
 import json
 
 def real_example():
-    """
-    Real example of how to use the Google Drive reader
-    """
+ 
     print("🚀 Real Usage Example")
     print("=" * 40)
     
