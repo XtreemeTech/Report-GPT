@@ -3,7 +3,7 @@ Report Generator Module
 ======================
 
 This module generates structured reports from document data
-and Q&A responses using GPT-4.
+and Q&A responses using GPT-4o.
 
 Author: Report GPT Team
 Date: 2024
@@ -33,13 +33,13 @@ class ReportGenerator:
     Generates structured reports from document data and Q&A responses.
     """
     
-    def __init__(self, api_key: Optional[str] = None, model: str = "gpt-4"):
+    def __init__(self, api_key: Optional[str] = None, model: str = "gpt-4o"):
         """
         Initialize Report Generator
         
         Args:
             api_key: OpenAI API key (optional, will use env var if not provided)
-            model: GPT model to use (default: gpt-4)
+            model: GPT model to use (default: gpt-4o)
         """
         self.api_key = api_key or os.getenv('OPENAI_API_KEY')
         if not self.api_key:
@@ -117,8 +117,8 @@ class ReportGenerator:
             # Prepare context from training data
             context = self._prepare_summary_context()
             
-            # Generate executive summary using GPT-4
-            system_message = """You are a professional report writer. Create a concise executive summary based on the provided document information. Focus on key findings, main topics, and important insights."""
+            # Generate executive summary using GPT-4o
+            system_message = """You are a professional report writer. Create a concise executive summary based on the provided document information. Focus on key findings, main topics, and important insights. Never mention technical details like model names, tokens, or API information in your output."""
             
             user_message = f"""Based on the following document information, create a professional executive summary (maximum {max_length} words):
 
@@ -182,7 +182,7 @@ Make it professional and business-ready."""
             # Prepare context from training data
             context = self._prepare_findings_context()
             
-            # Generate key findings using GPT-4
+            # Generate key findings using GPT-4o
             system_message = """You are a professional analyst. Extract and organize key findings from the provided document information. Focus on important discoveries, data points, and significant insights."""
             
             user_message = f"""Based on the following document information, create a comprehensive key findings report:
@@ -247,7 +247,7 @@ Make it detailed and analytical."""
             # Prepare context from training data
             context = self._prepare_recommendations_context()
             
-            # Generate recommendations using GPT-4
+            # Generate recommendations using GPT-4o
             system_message = """You are a strategic consultant. Based on the provided document information, generate actionable recommendations and strategic insights."""
             
             user_message = f"""Based on the following document information, create a strategic recommendations report:
@@ -304,25 +304,74 @@ Make it actionable and strategic."""
         Prepare context for summary generation
         
         Returns:
-            Context string
+            Formatted context string
         """
-        if not self.training_data.get('qa_pairs'):
-            return "No document data available for summary generation."
-        
-        # Get relevant Q&A pairs for summary
-        relevant_pairs = []
-        for qa_pair in self.training_data['qa_pairs'][:10]:  # Use first 10 for summary
-            if 'main topic' in qa_pair.get('question', '').lower() or \
-               'key finding' in qa_pair.get('question', '').lower() or \
-               'overview' in qa_pair.get('question', '').lower():
-                relevant_pairs.append(qa_pair)
-        
-        # Build context
-        context = "Document Information:\n\n"
-        for i, pair in enumerate(relevant_pairs, 1):
-            context += f"{i}. Q: {pair.get('question', '')}\n   A: {pair.get('answer', '')}\n\n"
-        
-        return context
+        try:
+            # Load extracted data for better context
+            extracted_data = self._load_extracted_data()
+            
+            context_parts = []
+            
+            # Add document overview
+            if extracted_data and isinstance(extracted_data, list) and len(extracted_data) > 0:
+                context_parts.append("DOCUMENT OVERVIEW:")
+                
+                for i, doc in enumerate(extracted_data[:3], 1):  # First 3 documents
+                    if isinstance(doc, dict):
+                        file_path = doc.get('file_path', f'Document {i}')
+                        text_content = doc.get('text', [])
+                        tables = doc.get('tables', [])
+                        
+                        # Extract key information
+                        doc_info = f"Document {i}: {file_path}"
+                        doc_info += f"\n- Pages: {len(text_content)}"
+                        doc_info += f"\n- Tables: {len(tables)}"
+                        
+                        # Extract first page content for context
+                        if text_content and len(text_content) > 0:
+                            first_page = text_content[0].get('text', '')
+                            # Get first 200 characters for context
+                            doc_info += f"\n- Content Preview: {first_page[:200]}..."
+                        
+                        context_parts.append(doc_info)
+                        context_parts.append("")
+            
+            # Add Q&A context
+            qa_pairs = self.training_data.get('qa_pairs', [])
+            if qa_pairs:
+                context_parts.append("KEY INFORMATION FROM DOCUMENTS:")
+                
+                # Extract key Q&A pairs
+                key_questions = [
+                    "What is the main topic",
+                    "What are the specifications",
+                    "What are the requirements",
+                    "What is the purpose",
+                    "What are the standards"
+                ]
+                
+                relevant_qa = []
+                for qa in qa_pairs[:10]:  # First 10 Q&A pairs
+                    question = qa.get('question', '').lower()
+                    if any(key in question for key in key_questions):
+                        relevant_qa.append(f"Q: {qa.get('question', '')}")
+                        relevant_qa.append(f"A: {qa.get('answer', '')}")
+                        relevant_qa.append("")
+                
+                if relevant_qa:
+                    context_parts.extend(relevant_qa)
+                else:
+                    # If no specific Q&A, use general ones
+                    for qa in qa_pairs[:5]:
+                        context_parts.append(f"Q: {qa.get('question', '')}")
+                        context_parts.append(f"A: {qa.get('answer', '')}")
+                        context_parts.append("")
+            
+            return "\n".join(context_parts)
+            
+        except Exception as e:
+            logger.error(f"Error preparing summary context: {e}")
+            return "Document information available for analysis."
     
     def _prepare_findings_context(self) -> str:
         """

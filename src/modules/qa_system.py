@@ -30,17 +30,17 @@ class QASystem:
     """
     Q&A System Class
     
-    Provides question-answering capabilities using GPT-4
+    Provides question-answering capabilities using GPT-4o
     and existing document knowledge.
     """
     
-    def __init__(self, api_key: Optional[str] = None, model: str = "gpt-4"):
+    def __init__(self, api_key: Optional[str] = None, model: str = "gpt-4o"):
         """
         Initialize Q&A System
         
         Args:
             api_key: OpenAI API key (optional, will use env var if not provided)
-            model: GPT model to use (default: gpt-4)
+            model: GPT model to use (default: gpt-4o)
         """
         self.api_key = api_key or os.getenv('OPENAI_API_KEY')
         if not self.api_key:
@@ -151,7 +151,7 @@ class QASystem:
             else:
                 user_message = question
             
-            # Call GPT-4
+            # Call GPT-4o
             response = openai.ChatCompletion.create(
                 model=self.model,
                 messages=[
